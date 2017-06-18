@@ -1,1 +1,2 @@
 # Paratlan-piramis
+Javascript feltételek 
